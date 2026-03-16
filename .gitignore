@@ -200,3 +200,4 @@ log/
 # Dolt database files (added by bd init)
 .dolt/
 *.db
+assignments/assignment-3/results/*.mp4
